@@ -11,3 +11,4 @@ images:
   newTag: 1-152
 
 resources:
+- route.yaml
