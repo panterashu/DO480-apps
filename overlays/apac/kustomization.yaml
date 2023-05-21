@@ -14,4 +14,4 @@ resources:
 - route.yaml
 
 commonLabels:
-  aplicatia: apac
+  app: apac
