@@ -3,6 +3,6 @@ kind: Kustomization
 bases:
 - ../../base
 
-nameSuffix: -apac
+namePrefix: apac-
 
 resources:
