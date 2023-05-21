@@ -12,3 +12,6 @@ images:
 
 resources:
 - route.yaml
+
+commonLabels:
+  aplicatia: apac
